@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical,1,sabertooth,C234181
+J10,Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical,1,spi_1,C164168
+J11,NINIGI_DC-005,1,Barrel_Jack_Switch,C130239
+J12,PinHeader_2x20_P2.54mm_Vertical,1,Raspberry_Pi_2_3,C132132
+J2,Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical,1,3V3_0,C234181
+J3,Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical,1,3V3_1,C234181
+J4,Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical,1,i2c_0,C234181
+J5,Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical,1,i2c_1,C234181
+J6,Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical,1,3V3_2,C234181
+J7,Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical,1,3V3_3,C234181
+J8,Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical,1,ambigious,C234181
+J9,Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical,1,spi_0,C164168
